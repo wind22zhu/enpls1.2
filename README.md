@@ -5,7 +5,7 @@
 ## Links
 
   * GitHub: https://github.com/wind2zhu/enpls1.2
-  * Bug Report: https://github.com/road2stat/enpls/issues
+  * Bug Report: https://github.com/wind2zhu/enpls1.2/issues
 
 ## Contact
 
