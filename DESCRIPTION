@@ -1,0 +1,20 @@
+Package: enpls
+Type: Package
+Title: Ensemble Partial Least Squares Regression
+Version: 1.2
+Date: 2016-02-25
+Author: Min-feng Zhu <wind2zhu@163.com>,Nan Xiao <road2stat@gmail.com>,
+     Dong-Sheng Cao <oriental-cds@163.com>,Qing-Song Xu <dasongxu@gmail.com>
+Maintainer: Min-feng Zhu <wind2zhu@163.com>,Nan Xiao <road2stat@gmail.com>
+Description: Ensemble partial least squares regression, a unified
+    framework for feature selection, outlier detection, applicability 
+    domain and ensemble learning.
+License: GPL (>= 2)
+LazyData: yes
+VignetteBuilder: knitr
+Imports: pls, foreach, doParallel, ggplot2
+Suggests: knitr
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-05-11 00:31:35 UTC; root
+Depends: R (>= 2.10)
