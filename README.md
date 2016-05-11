@@ -2,6 +2,7 @@
 
 `enpls` offers the ensemble partial least squares regression, a unified framework for feature selection, outlier detection, applicability domain and ensemble learning. See `vignette('enpls')` for details.
 
+
 ## Links
 
   * GitHub: https://github.com/wind2zhu/enpls1.2
