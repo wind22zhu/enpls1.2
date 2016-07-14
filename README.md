@@ -5,8 +5,8 @@
 
 ## Links
 
-  * GitHub: https://github.com/wind2zhu/enpls1.2
-  * Bug Report: https://github.com/wind2zhu/enpls1.2/issues
+  * GitHub: https://github.com/wind22zhu/enpls1.2
+  * Bug Report: https://github.com/wind22zhu/enpls1.2/issues
 
 ## Contact
 
